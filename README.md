@@ -20,4 +20,6 @@ Compatibility: the Innovator 16 works with Windows based systems from Windows 7 
 
 What does the Innovator 16 come with. What's in the box. You get the display tablet, the Pen, ten Pen nibs, USB cable, Nib Clip, Pen holder, AC cable (Armor-clad),3-en-1 cable, tablet stand , Power supply adapter, cleaning cloth, glove and quick start guide.
 
-For further details visit our official website at https://www.xp-pen.com/product/638.html
+For further details visit our official website details at https://www.xp-pen.com/product/638.html
+
+XP-Pen official site: https://www.xp-pen.com
